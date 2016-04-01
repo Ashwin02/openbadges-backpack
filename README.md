@@ -1,5 +1,5 @@
 # Mozilla Open Badges Backpack
-[![Build Status](https://secure.travis-ci.org/mozilla/openbadges.png?branch=development)](http://travis-ci.org/mozilla/openbadges)
+[![Build Status](https://secure.travis-ci.org/mozilla/openbadges.png?branch=development)](https://travis-ci.org/mozilla/openbadges-backpack)
 
 This is the Mozilla Hosted Backpack for earners' Open Badges. The Backpack allows earners to collect and manage their badges in groups, choosing whether each group is public or not. You can access the Mozilla Backpack Web front-end at: http://backpack.openbadges.org
 
